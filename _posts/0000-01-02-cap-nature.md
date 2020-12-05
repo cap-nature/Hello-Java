@@ -1,5 +1,6 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
+---
+ макет : заголовок слайда
+ : « Добро пожаловать на наш второй слайд! »
+---
+Ваш текст 
+Используйте стрелку влево, чтобы вернуться!
